@@ -62,7 +62,7 @@
 - What project management tool will be used? 
   - Spicy RACI Chart (Rated R)
   
-**Git Process**
+## Git Process ##
 - What components of your project will live on GitHub
    - Readme - Project details
    - Source code 
