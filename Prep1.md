@@ -1,6 +1,6 @@
-# Fourward Electronics  
+# Fourward Electronics #
 
-**Cooperation Plan**
+## Cooperation Plan ##
 
 *What are the key strengths of each person on the team?*
 1. Sierra - Coding and powerpoints. Google drive and docs! :)
@@ -20,7 +20,7 @@
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 - Timely meet-ups and reports after each work day.
 
-**Conflict Plan**
+## Conflict Plan ##
 1. What will be your group’s process to resolve conflict, when it arises?
 - Allow each member who has an issue to discuss the issue and come up with ways to solve the issues together. 
 - Team Stand Down 
@@ -40,7 +40,7 @@
 5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 - Immediately, and contact the Instructors.
 
-**Communication Plan**
+## Communication Plan ##
 - What hours will you be available to communicate?
    - 0900-2100
 - What platforms will you use to communicate (ie. Slack, phone …)?
@@ -55,11 +55,13 @@
    - Clear Communication and Teamwork  
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
    - Have open discussions to make sure that everyone is comfortable and if environmental safety is an issue we resolve it as a team. 
-**Work Plan**
+   
+## Work Plan ##
 - How will you identify tasks, assign tasks, know when they are complete, and manage work in general? 
    - RACI chart
 - What project management tool will be used? 
   - Spicy RACI Chart (Rated R)
+  
 **Git Process**
 - What components of your project will live on GitHub
    - Readme - Project details
