@@ -41,4 +41,41 @@
 - Immediately, and contact the Instructors.
 
 **Communication Plan**
-- What hours will you be available to communicate? 0900-2100
+- What hours will you be available to communicate?
+   - 0900-2100
+- What platforms will you use to communicate (ie. Slack, phone …)?
+   - Slack 
+- How often will you take breaks? 
+   - As often as neeeded 
+- What is your plan if you start to fall behind? 
+   - Catch up. Fix yourself!
+- How will you communicate after hours and on the weekend?
+   - Phone numbers and Slack
+- What is your strategy for ensuring everyone’s voice is heard?
+   - Clear Communication and Teamwork  
+- How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+   - Have open discussions to make sure that everyone is comfortable and if environmental safety is an issue we resolve it as a team. 
+**Work Plan**
+- How will you identify tasks, assign tasks, know when they are complete, and manage work in general? 
+   - RACI chart
+- What project management tool will be used? 
+  - Spicy RACI Chart (Rated R)
+**Git Process**
+- What components of your project will live on GitHub
+   - Readme - Project details
+   - Source code 
+   - PDF Powerpoint
+   - Documentation - Instruction
+   - Network Topology
+- How will you share the repository with your teammates?
+   - Organizations
+- What is your Git flow?
+   - Step 1: write the document
+   - Step 2: git add, git commit, git push
+   - Step 3: ???
+   - Step 4: profit!
+- Will you be using a PR review workflow? If so, consider:
+   - How many people must review a PR?
+   - Who merges PRs?
+   - How often will you merge?
+   - How will you communicate that it’s time to merge?
